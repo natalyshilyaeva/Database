@@ -1,0 +1,3 @@
+SELECT Table3.idprovider, SUM(Table3.numder);
+ FROM data1!table3;
+ GROUP BY Table3.idprovider

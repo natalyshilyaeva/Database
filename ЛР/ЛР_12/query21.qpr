@@ -1,0 +1,4 @@
+SELECT Airline.name, Airline.foundation_date, Airline.status+10,;
+  "st_new";
+ FROM ;
+     flights!airline

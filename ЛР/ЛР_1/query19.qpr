@@ -1,0 +1,5 @@
+SELECT Plane.baggage_weight, SUM(Plane.capasity_of_peopie);
+ FROM ;
+     flights!plane;
+ GROUP BY Plane.baggage_weight;
+ HAVING  SUM(Plane.capasity_of_peopie) > ( 1000 )

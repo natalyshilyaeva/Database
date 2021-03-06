@@ -1,0 +1,8 @@
+SELECT Airline.idairline, Airline.name, Plane.idplane, Plane.name,;
+  Flights.from_where, Flights.where;
+ FROM ;
+     flights!airline,;
+    flights!flights,;
+    flights!plane;
+ WHERE  Airline.idairline = Flights.idairline;
+   AND  Plane.idplane = Flights.idplane

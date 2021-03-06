@@ -1,0 +1,3 @@
+SELECT Table1.place, COUNT(Table1.idprovider);
+ FROM data1!table1;
+ GROUP BY Table1.place

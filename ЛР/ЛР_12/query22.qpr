@@ -1,0 +1,4 @@
+SELECT Flights.idflights, Flights.time_in_put, Flights.where;
+ FROM ;
+     flights!flights;
+ ORDER BY Flights.time_in_put, Flights.where DESC

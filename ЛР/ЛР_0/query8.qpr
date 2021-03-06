@@ -1,0 +1,5 @@
+SELECT Table3.iddetail, SUM(Table3.numder) AS koldet;
+ FROM ;
+     data1!table3;
+ GROUP BY Table3.iddetail;
+ HAVING  Table3.iddetail IN (1,3)

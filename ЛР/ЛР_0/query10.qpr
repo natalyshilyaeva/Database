@@ -1,0 +1,7 @@
+SELECT Table1.idprovider, Table1.name, Table2.iddetail, Table2.name;
+ FROM ;
+     data1!table1,;
+    data1!table3,;
+    data1!table2;
+ WHERE  Table1.idprovider = Table3.idprovider;
+   AND  Table2.iddetail = Table3.iddetail

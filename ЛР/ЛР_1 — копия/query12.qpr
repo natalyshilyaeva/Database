@@ -1,0 +1,5 @@
+SELECT Flights.number, Flights.name;
+ FROM ;
+     flights!flights;
+ WHERE  Flights.number >= ( 5 );
+   AND  Flights.number <= ( 10 )

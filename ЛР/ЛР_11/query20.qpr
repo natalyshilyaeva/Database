@@ -1,0 +1,5 @@
+SELECT Flights.idairport, MAX(Flights.name);
+ FROM ;
+     flights!flights;
+ GROUP BY Flights.idairport;
+ HAVING  Flights.idairport IN (10,9)

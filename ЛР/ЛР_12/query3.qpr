@@ -1,0 +1,3 @@
+SELECT Flights.departure_time, Flights.idplane, Flights.idflights;
+ FROM ;
+     flights!flights

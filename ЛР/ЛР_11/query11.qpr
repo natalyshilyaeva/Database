@@ -1,0 +1,5 @@
+SELECT Flights.idflights, Flights.number, Flights.name,;
+  Flights.from_where;
+ FROM ;
+     flights!flights;
+ WHERE  Flights.from_where IN ("Moscow","Singapore")

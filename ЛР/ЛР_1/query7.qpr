@@ -1,0 +1,4 @@
+SELECT Plane.name, Plane.baggage_weight;
+ FROM ;
+     flights!plane;
+ WHERE  Plane.baggage_weight >= ( 40 )

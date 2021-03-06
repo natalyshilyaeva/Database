@@ -1,0 +1,10 @@
+SELECT Airport.idairport, Airport.name, Flights.idplane, Plane.name,;
+  Flights.from_where, Flights.where;
+ FROM ;
+     flights!airport ;
+    INNER JOIN flights!flights ;
+   ON  Airport.idairport = Flights.idairport ;
+    INNER JOIN flights!plane ;
+   ON  Plane.idplane = Flights.idplane;
+ WHERE  Airport.idairport = Flights.idairport;
+   AND  Plane.idplane = Flights.idairport

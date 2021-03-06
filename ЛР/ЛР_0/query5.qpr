@@ -1,0 +1,3 @@
+SELECT DISTINCT COUNT(DISTINCT Table1.place);
+ FROM ;
+     data1!table1

@@ -1,0 +1,5 @@
+SELECT Flights.idplane, MAX(Flights.number) AS max_n;
+ FROM ;
+     flights!flights;
+ GROUP BY Flights.idplane;
+ ORDER BY Flights.idplane

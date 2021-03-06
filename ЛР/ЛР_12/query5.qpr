@@ -1,0 +1,4 @@
+SELECT Airport.name, Airport.status;
+ FROM ;
+     flights!airport;
+ WHERE  Airport.status > ( 40 )

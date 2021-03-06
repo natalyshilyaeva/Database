@@ -1,0 +1,4 @@
+SELECT Airport.name, Airport.city;
+ FROM ;
+     flights!airport;
+ WHERE  Airport.city = ( "Moscow" )

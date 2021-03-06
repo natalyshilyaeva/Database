@@ -1,0 +1,4 @@
+SELECT Flights.idflights, Flights.where;
+ FROM ;
+     flights!flights;
+ WHERE  Flights.where == ( "Moscow" )

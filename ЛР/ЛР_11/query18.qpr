@@ -1,0 +1,4 @@
+SELECT MAX(Flights.number), Flights.idairline;
+ FROM ;
+     flights!flights;
+ GROUP BY Flights.idairline

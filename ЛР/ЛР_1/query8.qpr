@@ -1,0 +1,4 @@
+SELECT Plane.name, Plane.capasity_of_peopie;
+ FROM ;
+     flights!plane;
+ WHERE  Plane.capasity_of_peopie BETWEEN 300 AND 600

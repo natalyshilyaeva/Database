@@ -1,0 +1,5 @@
+SELECT Airline.name, Airline.profit;
+ FROM ;
+     flights!airline;
+ WHERE  Airline.profit BETWEEN 10 AND 30;
+   AND  Airline.profit NOT IN (10,30)

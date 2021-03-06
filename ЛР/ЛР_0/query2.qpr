@@ -1,0 +1,3 @@
+SELECT Table3.idpd, Table3.idprovider, Table3.numder;
+ FROM data1!table3;
+ WHERE  Table3.idprovider IN (1,3)

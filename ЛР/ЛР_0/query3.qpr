@@ -1,0 +1,4 @@
+SELECT Table3.idpd, Table3.iddetail, Table3.numder;
+ FROM ;
+     data1!table3;
+ WHERE  Table3.numder BETWEEN 200 AND 400

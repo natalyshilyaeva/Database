@@ -1,0 +1,3 @@
+SELECT Table1.idprovider, Table1.name;
+ FROM data1!table1;
+ WHERE  Table1.name LIKE "%e%"

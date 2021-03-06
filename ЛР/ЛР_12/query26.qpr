@@ -1,0 +1,6 @@
+SELECT DISTINCT Airline.name AS airline_1,;
+  Airline_a.name AS airline_2, Airline.profit, Airline_a.profit;
+ FROM ;
+     flights!airline,;
+    flights!airline Airline_a
+ WHERE  Airline.profit = Airline_a.profit;

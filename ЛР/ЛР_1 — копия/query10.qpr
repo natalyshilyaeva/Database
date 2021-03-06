@@ -1,0 +1,4 @@
+SELECT Airline.name;
+ FROM ;
+     flights!airline;
+ WHERE  Airline.name LIKE ( "%o%" )
